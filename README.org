@@ -5,5 +5,5 @@ A Common Lisp bencode library. Bencode is the encoding used by BitTorrent.
 |---------+-------------------------------------------|
 | source  | git:https://github.com/nja/cl-bencode.git |
 | commit  | ede7865                                   |
-| systems | (bencode)                                 |
+| systems | bencode                                   |
 |---------+-------------------------------------------|
